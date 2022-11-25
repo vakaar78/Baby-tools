@@ -7,7 +7,7 @@ YouTube Channel:
 
 Facebook: 
 ```
-git clone 
+git clone https://github.com/vakaar78/Baby-tools.git
 cd toolss
 chmod +x Baby-tools.py
 python Baby-tools.py
